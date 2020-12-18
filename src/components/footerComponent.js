@@ -39,7 +39,7 @@ function Footer(props) {
                 </div>
                 <div className="row justify-content-center">
                     <div className="col-auto">
-                        <p>© Copyright 2020 Fusion Eatery</p>
+                        <p>© Copyright 2020 Talin Foods</p>
                     </div>
                 </div>
             </div>
